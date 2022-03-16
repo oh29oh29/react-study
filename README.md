@@ -9,4 +9,5 @@
 [Hello React 08](https://github.com/oh29oh29/react-study/tree/master/hello-react-08) STATE - State Functions  
 [Hello React 09](https://github.com/oh29oh29/react-study/tree/master/hello-react-09) STATE - Inputs and State  
 [Hello React 10](https://github.com/oh29oh29/react-study/tree/master/hello-react-10) STATE - State Practice  
-[Hello React 11](https://github.com/oh29oh29/react-study/tree/master/hello-react-11) STATE - Final Practice and Recap
+[Hello React 11](https://github.com/oh29oh29/react-study/tree/master/hello-react-11) STATE - Final Practice and Recap  
+[Hello React 12](https://github.com/oh29oh29/react-study/tree/master/hello-react-12) PROPS - Basic  
