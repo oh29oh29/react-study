@@ -11,3 +11,4 @@
 [Hello React 10](https://github.com/oh29oh29/react-study/tree/master/hello-react-10) STATE - State Practice  
 [Hello React 11](https://github.com/oh29oh29/react-study/tree/master/hello-react-11) STATE - Final Practice and Recap  
 [Hello React 12](https://github.com/oh29oh29/react-study/tree/master/hello-react-12) PROPS - Basic  
+[Hello React 13](https://github.com/oh29oh29/react-study/tree/master/hello-react-13) PROPS - Memo  
