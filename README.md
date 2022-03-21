@@ -23,3 +23,4 @@
 #### 노마드코더 강의 'NextJS 시작하기' 를 보고
 
 [Hello React NextJS 01](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-01) Creating a Project  
+[Hello React NextJS 02](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-02) Routing  
