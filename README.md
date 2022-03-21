@@ -18,3 +18,8 @@
 [Hello React 17](https://github.com/oh29oh29/react-study/tree/master/hello-react-17) useEffect - Cleanup  
 [Hello React 18](https://github.com/oh29oh29/react-study/tree/master/hello-react-18) Practice - To Do List  
 [Hello React 19](https://github.com/oh29oh29/react-study/tree/master/hello-react-19) Practice - Coin Tracker  
+[Hello React 20](https://github.com/oh29oh29/react-study/tree/master/hello-react-20) Practice - Movie App  
+
+#### 노마드코더 강의 'NextJS 시작하기' 를 보고
+
+[Hello React NextJS 01](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-01) Creating a Project  
