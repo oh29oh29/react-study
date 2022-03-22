@@ -28,3 +28,4 @@
 [Hello React NextJS 04](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-04) Styles JSX  
 [Hello React NextJS 05](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-05) Custom App  
 [Hello React NextJS 06](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-06) Patterns  
+[Hello React NextJS 07](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-07) Fetching Data  
