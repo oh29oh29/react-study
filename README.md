@@ -27,3 +27,4 @@
 [Hello React NextJS 03](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-03) CSS Modules  
 [Hello React NextJS 04](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-04) Styles JSX  
 [Hello React NextJS 05](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-05) Custom App  
+[Hello React NextJS 06](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-06) Patterns  
