@@ -29,3 +29,4 @@
 [Hello React NextJS 05](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-05) Custom App  
 [Hello React NextJS 06](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-06) Patterns  
 [Hello React NextJS 07](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-07) Fetching Data  
+[Hello React NextJS 08](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-08) Redirect and Rewrite  
