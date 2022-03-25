@@ -34,3 +34,4 @@
 [Hello React NextJS 10](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-10) Dynamic Routes  
 [Hello React NextJS 11](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-11) Router   
 [Hello React NextJS 12](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-12) Catch All URL   
+[Hello React NextJS 13](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-13) 404 Pages   
