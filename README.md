@@ -31,3 +31,5 @@
 [Hello React NextJS 07](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-07) Fetching Data  
 [Hello React NextJS 08](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-08) Redirect and Rewrite  
 [Hello React NextJS 09](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-09) Server Side Rendering  
+[Hello React NextJS 10](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-10) Dynamic Routes  
+[Hello React NextJS 11](https://github.com/oh29oh29/react-study/tree/master/hello-react-nextjs-11) Router   
